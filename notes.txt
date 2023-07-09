@@ -1,0 +1,20 @@
+tree data structure looks like tree. It follows highrachy data structure. It has root node, parent/child node, leaf node.
+
+Array, Linkd list -> Linear DS
+Tree -> Non linear DS
+
+in Binary tree DS a node has maximum 2 child node.
+
+Binary node structure:
+1. val
+2. left
+3. right
+
+there is no STL of non linear DS.
+
+Binary tree traverse Order:
+1. Depth wise
+    i. Pre order(root->left->right)
+    ii. Post order(left->right->root)
+    iii. In order(left->root->right)
+2. Level wise
